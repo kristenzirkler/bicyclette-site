@@ -1,0 +1,26 @@
+$nav-height: 60px;
+$footer-height: 50px;
+
+#body {
+	padding-top: 50px;
+}
+.hide {
+	opacity: 0;
+}
+.show {
+	opacity: 1;
+}
+
+// Responsive
+@media all and (min-width: 420px) {
+// Tablet & Up
+
+// End Tablet & Up
+}
+
+@media all and (min-width: 800px) {
+// Desktop & Up
+
+
+// End Desktop & Up
+}
